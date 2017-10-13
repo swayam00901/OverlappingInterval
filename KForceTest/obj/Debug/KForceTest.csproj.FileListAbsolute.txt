@@ -1,0 +1,5 @@
+c:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\KForceTest\bin\Debug\KForceTest.exe.config
+c:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\KForceTest\bin\Debug\KForceTest.exe
+c:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\KForceTest\bin\Debug\KForceTest.pdb
+c:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\KForceTest\obj\Debug\KForceTest.exe
+c:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\KForceTest\obj\Debug\KForceTest.pdb

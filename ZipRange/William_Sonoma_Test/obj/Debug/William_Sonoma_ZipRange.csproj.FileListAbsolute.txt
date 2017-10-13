@@ -1,0 +1,6 @@
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\bin\Debug\William_Sonoma_Test.pdb
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\obj\Debug\William_Sonoma_Test.pdb
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\bin\Debug\William_Sonoma_Test.exe.config
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\bin\Debug\William_Sonoma_Test.exe
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\obj\Debug\William_Sonoma_Test.exe
+C:\Users\Swayam\Documents\Visual Studio 2015\Projects\ZipRange\William_Sonoma_Test\obj\Debug\William_Sonoma_ZipRange.csprojResolveAssemblyReference.cache
